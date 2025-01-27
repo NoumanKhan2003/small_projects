@@ -1,10 +1,10 @@
 import React from 'react'
-
+import { Container } from '@mui/material'
 const App = () => {
   return (
-    <div>
-      Nouman
-    </div>
+    <Container>
+      
+    </Container>
   )
 }
 
